@@ -1,0 +1,18 @@
+{
+	"name": "NewLinkTile",
+	"description": "Web Client UI Extension Tiles",
+	"version": "0.0.1",
+	"vendor": "SapPartner",
+	"multiple-version": "false",
+	"apiversion": "V1",
+	"user-tiles": [
+		{
+			"id": "my-user-tilenew",
+			"name": "NewWindowTile",
+			"description": "Web Client Remote Application Extension",
+			"url": "https://www.youtube.com/watch?v=RhtamwuGn54&list=PLMdHXbewhZ2QOPk7QD3PMvELfB3JY5y7J",
+			"linkmethod": "NewWindow",
+			"image": "sap-icon://account"
+		}
+	]
+} 
